@@ -1,3 +1,6 @@
+![My Portfolio](https://github.com/EstherOgutu/Premier-League-Prediction-Group-3-/blob/main/epl.png)
+
+
 # Premier-League-Prediction-Group-3-
 ## Business Overview
 In the football world, The Premier League, also known as the English Premier League or EPL (legal name: The Football Association Premier League Limited), is the top level of the English football system. It is contested by 20 clubs and it takes place between August and May and involves the teams playing each other home and away across the season, a total of 380 matches. Three points are awarded for a win, one point for a draw, and none for a defeat, with the team with most at the end of the season winning the Premier League title.
