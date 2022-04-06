@@ -1,4 +1,4 @@
-![My Portfolio](https://github.com/EstherOgutu/Premier-League-Prediction-Group-3-/blob/main/epl.png)
+![My Portfolio](https://github.com/EstherOgutu/Premier-League-Prediction-Group-3-/blob/main/epl1.png)
 
 
 # Premier-League-Prediction-Group-3-
